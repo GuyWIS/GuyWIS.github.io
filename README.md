@@ -5,4 +5,4 @@ I do my research in the group of [Michal Leskes](https://www.weizmann.ac.il/MCMS
 
 The research is about failure mechanisms of lithium batteries and the magentic resonance techniques that can be used in order to study them.
 
-<img src="battery.jpg" alt="Profile Picture" width="200" style="border-radius: 50%; border: 4px solid white;">
+<img src="battery.png" alt="Profile Picture" width="400" style="border-radius: 50%; border: 4px solid black;">
